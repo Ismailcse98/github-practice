@@ -1,2 +1,3 @@
 hello second remote conflict update form remote branch
 hello second local conflict update form remote branch
+Add third line for testing branch in locally
